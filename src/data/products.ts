@@ -353,3 +353,4 @@ export const PRODUCTS: Product[] = [
       'Lather generously on damp body, massage softly, and wash off with clean water.',
   },
 ];
+

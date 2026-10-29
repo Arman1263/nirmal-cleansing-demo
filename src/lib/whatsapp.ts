@@ -60,3 +60,4 @@ export function getProductInquiryMessage(
   const priceInfo = samplePrice ? ` [Ref: ${samplePrice}]` : '';
   return `Hello Nirmal Team, I am interested in inquiring about *${productName}*${sizeInfo}${priceInfo}. Could you please share bulk/retail pricing, availability, and delivery details? Thank you!`;
 }
+

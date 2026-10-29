@@ -93,3 +93,4 @@ export const WhyNirmal: React.FC = () => {
     </section>
   );
 };
+

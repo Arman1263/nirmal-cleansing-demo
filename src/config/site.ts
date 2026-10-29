@@ -144,3 +144,4 @@ export const siteConfig: SiteConfig = {
       'This website is a frontend design demonstration for Nirmal. Product specifications, prices, and business details are sample placeholders subject to owner confirmation.',
   },
 };
+
